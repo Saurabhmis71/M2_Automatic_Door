@@ -1,0 +1,11 @@
+This project is about the automatic door using the door sensor.Door sensors are the devices are made up of two parts,
+
+which form a circuit when they are kept parallel to each other. and they are using the magnetic property of current.
+
+But instead of door sensor we use here in the simuleide a switch in the project.
+
+A Door sensor is connected to bit 1 of port B, and led is connected to bit 6 of port c. write a c program to monitor the
+
+door sensor and when it opens, turns on thr LED without changing the state of other pins.
+
+  
