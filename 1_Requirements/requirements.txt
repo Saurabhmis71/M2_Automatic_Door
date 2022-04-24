@@ -1,0 +1,15 @@
+1: Microcontroller atmega328
+
+2: Voltmeter (two)
+
+3: LED 
+
+4: 100 ohm resistance
+
+5: 5 volt fixed voltage source
+
+6: Switch as a door sensor
+
+7: Simuleide 
+
+8: Atmel studio
